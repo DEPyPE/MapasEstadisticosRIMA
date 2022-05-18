@@ -69,6 +69,10 @@ body{
 	color: black;
 }
 
+.gray-text{
+    color: rgb(120, 120, 120) !important;
+}
+
 .label-Ocampo{
     top: 155px;
     left: 270px;
