@@ -1750,7 +1750,7 @@
     $(function(){
         $('.collapsible').collapsible();
 
-        $('.collection-regionGeneral .collection-item')[5].click();
+        $('.collection-regionGeneral .collection-item')[0].click();
     });
 
     $('.collection-regionGeneral .collection-item').on('click', function(){
