@@ -1765,7 +1765,7 @@
         switch( TypeMap ){
             case "1er grado - Español":
                 Mapa_RIMA_TELESEC_General('RIMA_TELESEC_ESP_1ro');
-                $('.title-map').text('Porcentajes de acierto en RIMA de la asignatura de Español en Gto');
+                $('.title-map').text('Porcentaje de aciertos de RIMA para Español-1ro de Telesecundaria');
                 $('.notas-datos').css('color', 'white');
 
                 $('.nombre-municipios').children().show().removeClass('black-text').addClass('white-text');
@@ -1777,7 +1777,7 @@
             break;
             case "1er grado - Matemáticas":
                 Mapa_RIMA_TELESEC_General('RIMA_TELESEC_MAT_1ro');
-                $('.title-map').text('Porcentajes de acierto en RIMA de la asignatura de Matemáticas en Gto');
+                $('.title-map').text('Porcentaje de aciertos de RIMA para Matemáticas-1ro de Telesecundaria');
                 $('.notas-datos').css('color', 'white');
 
                 $('.nombre-municipios').children().show().removeClass('black-text').addClass('white-text');
@@ -1789,7 +1789,7 @@
             break;
             case "2do grado - Español":
                 Mapa_RIMA_TELESEC_General('RIMA_TELESEC_ESP_2do');
-                $('.title-map').text('Porcentajes de acierto en RIMA de la asignatura de Español en Gto');
+                $('.title-map').text('Porcentaje de aciertos de RIMA para Español-2do de Telesecundaria');
                 $('.notas-datos').css('color', 'white');
 
                 $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
@@ -1798,7 +1798,7 @@
             break;
             case "2do grado - Matemáticas":
                 Mapa_RIMA_TELESEC_General('RIMA_TELESEC_MAT_2do');
-                $('.title-map').text('Porcentajes de acierto en RIMA de la asignatura de Matemáticas en Gto');
+                $('.title-map').text('Porcentaje de aciertos de RIMA para Matemáticas-2do de Telesecundaria');
                 $('.notas-datos').css('color', 'white');
 
                 $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
@@ -1809,7 +1809,7 @@
             break;
             case "3er grado - Español":
                 Mapa_RIMA_TELESEC_General('RIMA_TELESEC_ESP_3ro');
-                $('.title-map').text('Porcentajes de acierto en RIMA de la asignatura de Español en Gto');
+                $('.title-map').text('Porcentaje de aciertos de RIMA para Español-3ro de Telesecundaria');
                 $('.notas-datos').css('color', 'white');
 
                 $('.nombre-municipios').children().show();
@@ -1830,7 +1830,7 @@
             break;
             case "3er grado - Matemáticas":
                 Mapa_RIMA_TELESEC_General('RIMA_TELESEC_MAT_3ro');
-                $('.title-map').text('Porcentajes de acierto en RIMA de la asignatura de Matemáticas en Gto');
+                $('.title-map').text('Porcentaje de aciertos de RIMA para Matemáticas-3ro de Telesecundaria');
                 $('.notas-datos').css('color', 'white');
 
                 $('.nombre-municipios').children().show().addClass('black-text');
@@ -2598,7 +2598,7 @@
     });
 
     $('.collapsible-regions').collapsible({
-        
+
         'onOpenStart': function(el){
             console.log( 'Opening' );
         },
