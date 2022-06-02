@@ -39,7 +39,7 @@ body{
 }
 
 .collection-margin-left{
-    margin-left: 100px !important;
+    margin-left: 30px !important;
 }
 
 .notas-datos{
@@ -349,4 +349,26 @@ body{
     font-size: 9px;
 }
 
+/* ESTILO AL MENU POR DELEGACIÓN */
+.collection-menu{
+    margin-top: 18px !important;
+}
 
+.collapsible-regions{
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.collapsible-regions .collapsible-body{
+    background-color: white;
+    padding: 15px 10px 15px 25px !important;
+}
+
+.collection-region1, .collection-region2, .collection-region3,
+.collection-region4, .collection-region5, .collection-region6,
+.collection-region7, .collection-regionGeneral{
+    border: 1px solid rgba(200, 200, 200, 0.6) !important;
+    box-shadow: none !important;
+}
