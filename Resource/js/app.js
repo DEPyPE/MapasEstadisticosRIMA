@@ -2597,37 +2597,25 @@
         }
     });
 
-    $('.collection-1ro .collection-item').on('click', function(){
-
-        $(this).siblings().removeClass('collection-item-active');
-        $(this).addClass('collection-item-active');
-        $(this).children().children().children().text('_chevron_right');
-        $(this).siblings().children().children().children().text(' ');
-
-        TypeMap = $(this).text().split('_');
-        TypeMap = TypeMap[0].split('.');
-
-        switch(TypeMap[0]){
-            case "R0":
-                Mapa_RIMA_TELESEC_1ro_PRUEBA();
-                $('.title-map').text('Porcentaje de acierto de RIMA Español - PRUEBA TODAS LAS DG');
-                $('.nombre-municipios').children().removeClass('black-text').addClass('white-text');
-                $('.label-Moroleon').removeClass('white-text').addClass('black-text');
-                $('.label-Cortazar').removeClass('white-text').addClass('black-text');
-                $('.label-SantaCruzDeJuventinoRosas').removeClass('white-text').addClass('black-text');
-                $('.label-SanMiguelDeAllende').removeClass('white-text').addClass('black-text');
-                $('.label-SanFelipe').removeClass('white-text').addClass('black-text');
-                
-                $('.label-Silao').removeClass('white-text').addClass('black-text');
-                $('.label-Romita').removeClass('white-text').addClass('black-text');
-                $('.label-Irapuato').removeClass('white-text').addClass('black-text');
-                $('.label-Xichu').removeClass('white-text').addClass('black-text');
-                $('.label-SantaCatarina').removeClass('white-text').addClass('black-text');
-                $('.label-TierraBlanca').removeClass('white-text').addClass('black-text');
-                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text'); 
-            break;
+    $('.collapsible-regions').collapsible({
+        
+        'onOpenStart': function(el){
+            console.log( 'Opening' );
+        },
+        'onCloseStart': function(el){
+            console.log( 'Closing' );
         }
-
-
+    
     });
+
+    /*
+    $('.collapsible-header').on('click', function(){
+       console.log( $(this).parent().siblings().children('.collapsible-header') );
+        
+        $(this).find('.expand-more-icon').css({
+            'transform': 'rotate(180deg)',
+            'transition': '0.5s'
+        });
+    });
+    */
 
