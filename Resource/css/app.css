@@ -198,9 +198,9 @@ body{
 }
 
 .label-Salamanca{
-    top: 428px;
-    left: 345px;
-    font-size: 12px;
+    top: 432px;
+    left: 347px;
+    font-size: 10px;
 }
 
 .label-Penjamo{
@@ -359,6 +359,11 @@ body{
     width: 21% !important;
 }
 
+.title-page-dgpe{
+    display: none !important;
+    font-size: 18px !important;
+}
+
 .title-page{
     font-size: 22px !important;
 }
@@ -370,7 +375,48 @@ body{
 }
 
 .sidenav .user-view {
-    padding: 25px 35px 25px 30px !important;
+    padding: 15px 23px 5px 23px !important
+}
+
+.sidenav .user-view .name{
+    margin-top: 8px !important;
+}
+
+#SelectCatalogoMapas{
+    margin-bottom: 15px !important;
+    background-color: rgba(0, 0, 0, 0);
+    color: white !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+}
+
+#SelectCatalogoMapas:hover{
+    cursor: pointer !important;
+}
+
+#SelectCatalogoMapas option{
+    color: black !important;
+}
+
+select:focus {
+    outline: none !important;
+}
+
+input{
+    color: white !important;
+}
+
+.dropdown-content li > a, .dropdown-content li > span{
+    color: black !important;
+}
+
+.sidenav .collapsible-header, .sidenav.fixed .collapsible-header {
+    padding-left: 8px !important;
+}
+
+.select-catalogo-container{
+    margin: 10px 0px 10px 0px !important;
 }
 
 .collection-menu-sidenav{
@@ -379,30 +425,58 @@ body{
     box-shadow: none !important;
 }
 
-.collapsible-regions li{
+.collapsible-header .material-icons{
+    margin-right: 10px !important;
+}
+
+.collapsible-telesecundarias{
+    margin: 0 20px 0 20px !important;
+}
+
+.collapsible-mapas-estatales{
+    margin: 20px 20px 20px 20px !important;
+}
+
+.collapsible-telesecundarias li, .collapsible-mapas-estatales li{
     border-bottom: 1px solid rgba(210, 210, 210, 0.8) !important;
 }
 
-.collapsible-regions{
+.collapsible-telesecundarias li:first-child, .collapsible-mapas-estatales li:first-child{
+    border-top: 1px solid rgba(210, 210, 210, 0.8) !important;
+}
+
+.collapsible-telesecundarias, .collapsible-mapas-estatales{
     margin-top: 0 !important;
     margin-bottom: 0 !important;
     box-shadow: none !important;
     border: none !important;
 }
 
-.collapsible-regions .collapsible-body{
-    background-color: white;
+.collapsible-telesecundarias .collapsible-body, .collapsible-mapas-estatales .collapsible-body{
+    background-color: white !important;
     padding: 15px 10px 15px 25px !important;
 }
 
 .collection-region1, .collection-region2, .collection-region3,
 .collection-region4, .collection-region5, .collection-region6,
-.collection-region7, .collection-regionGeneral{
+.collection-region7, .collection-regionGeneral, .collection-otros-mapas,
+.collection-4to-pri, .collection-5to-pri, .collection-6to-pri,
+.collection-1ro-sec, .collection-2do-sec, .collection-3ro-sec{
     border: 1px solid rgba(200, 200, 200, 0.6) !important;
     box-shadow: none !important;
 }
 
 .expand-more-icon{
     position: absolute !important;
-    right: 0 !important;
+    right: 15px !important;
+}
+
+.card-text{
+    display: none !important;
+    height: 650px !important;
+}
+
+.textarea1{
+    height: 100% !important;
+    max-height: 100% !important;
 }

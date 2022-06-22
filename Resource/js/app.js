@@ -1,51 +1,149 @@
 
+    DataGuanajuatoEmpty = [
+        {id:"11001", COUNTYID:"001", COUNTY:"Abasolo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11002", COUNTYID:"002", COUNTY:"Acámbaro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11003", COUNTYID:"003", COUNTY:"San Miguel de Allende",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"34.96", },
+        {id:"11005", COUNTYID:"005", COUNTY:"Apaseo el Grande",                                  STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11004", COUNTYID:"004", COUNTY:"Apaseo el Alto",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11006", COUNTYID:"006", COUNTY:"Atarjea",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11007", COUNTYID:"007", COUNTY:"Celaya",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11008", COUNTYID:"008", COUNTY:"Manuel Doblado",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11009", COUNTYID:"009", COUNTY:"Comonfort",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11010", COUNTYID:"010", COUNTY:"Coroneo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11011", COUNTYID:"011", COUNTY:"Cortazar",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11012", COUNTYID:"012", COUNTY:"Cuerámaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11013", COUNTYID:"013", COUNTY:"Doctor Mora",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11014", COUNTYID:"014", COUNTY:"Dolores Hidalgo Cuna de la Independencia Nacional", STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"35.68", },
+        {id:"11015", COUNTYID:"015", COUNTY:"Guanajuato",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11016", COUNTYID:"016", COUNTY:"Huanímaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11017", COUNTYID:"017", COUNTY:"Irapuato",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11018", COUNTYID:"018", COUNTY:"Jaral del Progreso",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11019", COUNTYID:"019", COUNTY:"Jerécuaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11020", COUNTYID:"020", COUNTY:"León",                                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11021", COUNTYID:"021", COUNTY:"Moroleón",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11022", COUNTYID:"022", COUNTY:"Ocampo",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"35.58", },
+        {id:"11023", COUNTYID:"023", COUNTY:"Pénjamo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11024", COUNTYID:"024", COUNTY:"Pueblo Nuevo",                                      STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11025", COUNTYID:"025", COUNTY:"Purí­sima del Rincón",                               STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11026", COUNTYID:"026", COUNTY:"Romita",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11027", COUNTYID:"027", COUNTY:"Salamanca",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11028", COUNTYID:"028", COUNTY:"Salvatierra",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11029", COUNTYID:"029", COUNTY:"San Diego de la Unión",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"37.12", },
+        {id:"11030", COUNTYID:"030", COUNTY:"San Felipe",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"34.77", },
+        {id:"11031", COUNTYID:"031", COUNTY:"San Francisco del Rincón",                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11032", COUNTYID:"032", COUNTY:"San José Iturbide",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11033", COUNTYID:"033", COUNTY:"San Luis de la Paz",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11034", COUNTYID:"034", COUNTY:"Santa Catarina",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11035", COUNTYID:"035", COUNTY:"Santa Cruz de Juventino Rosas",                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11036", COUNTYID:"036", COUNTY:"Santiago Maravatí­o",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11037", COUNTYID:"037", COUNTY:"Silao de la Victoria",                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11038", COUNTYID:"038", COUNTY:"Tarandacuao",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11039", COUNTYID:"039", COUNTY:"Tarimoro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11040", COUNTYID:"040", COUNTY:"Tierra Blanca",                                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11041", COUNTYID:"041", COUNTY:"Uriangato",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11042", COUNTYID:"042", COUNTY:"Valle de Santiago",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11043", COUNTYID:"043", COUNTY:"Victoria",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11044", COUNTYID:"044", COUNTY:"Villagrán",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11045", COUNTYID:"045", COUNTY:"Xichú",                                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Peru",   RIMA_TELESEC_ESP_1ro_R1:"00.00", },
+        {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", } 
+    ]
+
+    DataRIMAPorGrado  = [
+        {id:"11001", COUNTYID:"001", COUNTY:"Abasolo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.88", RIMA_1ro_Sec_Mat: "38.02", RIMA_2do_Sec_Esp: "36.40", RIMA_2do_Sec_Mat: "35.58", RIMA_3ro_Sec_Esp: "37.60", RIMA_3ro_Sec_Mat: "34.95", RIMA_4to_Pri_Esp: "39.50", RIMA_4to_Pri_Mat: "47.51", RIMA_5to_Pri_Esp: "37.31", RIMA_5to_Pri_Mat: "34.52", RIMA_6to_Pri_Esp: "41.28", RIMA_6to_Pri_Mat: "36.80" },
+        {id:"11002", COUNTYID:"002", COUNTY:"Acámbaro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.14", RIMA_1ro_Sec_Mat: "41.40", RIMA_2do_Sec_Esp: "36.95", RIMA_2do_Sec_Mat: "36.46", RIMA_3ro_Sec_Esp: "37.99", RIMA_3ro_Sec_Mat: "33.97", RIMA_4to_Pri_Esp: "38.98", RIMA_4to_Pri_Mat: "47.52", RIMA_5to_Pri_Esp: "38.95", RIMA_5to_Pri_Mat: "36.59", RIMA_6to_Pri_Esp: "43.48", RIMA_6to_Pri_Mat: "39.66" },
+        {id:"11003", COUNTYID:"003", COUNTY:"San Miguel de Allende",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "39.84", RIMA_1ro_Sec_Mat: "40.05", RIMA_2do_Sec_Esp: "36.35", RIMA_2do_Sec_Mat: "37.78", RIMA_3ro_Sec_Esp: "41.81", RIMA_3ro_Sec_Mat: "37.84", RIMA_4to_Pri_Esp: "37.23", RIMA_4to_Pri_Mat: "46.74", RIMA_5to_Pri_Esp: "37.58", RIMA_5to_Pri_Mat: "34.13", RIMA_6to_Pri_Esp: "42.57", RIMA_6to_Pri_Mat: "37.34" },
+        {id:"11005", COUNTYID:"005", COUNTY:"Apaseo el Grande",                                  STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "39.47", RIMA_1ro_Sec_Mat: "36.93", RIMA_2do_Sec_Esp: "36.62", RIMA_2do_Sec_Mat: "35.27", RIMA_3ro_Sec_Esp: "39.35", RIMA_3ro_Sec_Mat: "34.62", RIMA_4to_Pri_Esp: "33.57", RIMA_4to_Pri_Mat: "41.37", RIMA_5to_Pri_Esp: "33.79", RIMA_5to_Pri_Mat: "30.21", RIMA_6to_Pri_Esp: "37.78", RIMA_6to_Pri_Mat: "32.19" },
+        {id:"11004", COUNTYID:"004", COUNTY:"Apaseo el Alto",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "42.60", RIMA_1ro_Sec_Mat: "42.55", RIMA_2do_Sec_Esp: "38.31", RIMA_2do_Sec_Mat: "41.03", RIMA_3ro_Sec_Esp: "41.74", RIMA_3ro_Sec_Mat: "39.08", RIMA_4to_Pri_Esp: "35.60", RIMA_4to_Pri_Mat: "43.47", RIMA_5to_Pri_Esp: "39.61", RIMA_5to_Pri_Mat: "35.57", RIMA_6to_Pri_Esp: "39.90", RIMA_6to_Pri_Mat: "35.28" },
+        {id:"11006", COUNTYID:"006", COUNTY:"Atarjea",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "45.64", RIMA_1ro_Sec_Mat: "42.02", RIMA_2do_Sec_Esp: "39.81", RIMA_2do_Sec_Mat: "38.34", RIMA_3ro_Sec_Esp: "43.04", RIMA_3ro_Sec_Mat: "37.48", RIMA_4to_Pri_Esp: "39.69", RIMA_4to_Pri_Mat: "45.65", RIMA_5to_Pri_Esp: "39.53", RIMA_5to_Pri_Mat: "33.85", RIMA_6to_Pri_Esp: "43.45", RIMA_6to_Pri_Mat: "35.90" },
+        {id:"11007", COUNTYID:"007", COUNTY:"Celaya",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.27", RIMA_1ro_Sec_Mat: "36.42", RIMA_2do_Sec_Esp: "36.74", RIMA_2do_Sec_Mat: "36.63", RIMA_3ro_Sec_Esp: "37.71", RIMA_3ro_Sec_Mat: "36.51", RIMA_4to_Pri_Esp: "34.61", RIMA_4to_Pri_Mat: "40.09", RIMA_5to_Pri_Esp: "35.62", RIMA_5to_Pri_Mat: "31.99", RIMA_6to_Pri_Esp: "38.13", RIMA_6to_Pri_Mat: "34.04" },
+        {id:"11008", COUNTYID:"008", COUNTY:"Manuel Doblado",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "41.68", RIMA_1ro_Sec_Mat: "40.71", RIMA_2do_Sec_Esp: "37.92", RIMA_2do_Sec_Mat: "39.54", RIMA_3ro_Sec_Esp: "39.02", RIMA_3ro_Sec_Mat: "33.49", RIMA_4to_Pri_Esp: "35.29", RIMA_4to_Pri_Mat: "45.07", RIMA_5to_Pri_Esp: "35.50", RIMA_5to_Pri_Mat: "31.87", RIMA_6to_Pri_Esp: "43.64", RIMA_6to_Pri_Mat: "37.51" },
+        {id:"11009", COUNTYID:"009", COUNTY:"Comonfort",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.67", RIMA_1ro_Sec_Mat: "36.81", RIMA_2do_Sec_Esp: "38.72", RIMA_2do_Sec_Mat: "37.88", RIMA_3ro_Sec_Esp: "41.13", RIMA_3ro_Sec_Mat: "36.95", RIMA_4to_Pri_Esp: "39.18", RIMA_4to_Pri_Mat: "45.62", RIMA_5to_Pri_Esp: "37.12", RIMA_5to_Pri_Mat: "32.70", RIMA_6to_Pri_Esp: "41.53", RIMA_6to_Pri_Mat: "34.69" },
+        {id:"11010", COUNTYID:"010", COUNTY:"Coroneo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.14", RIMA_1ro_Sec_Mat: "37.52", RIMA_2do_Sec_Esp: "35.15", RIMA_2do_Sec_Mat: "36.83", RIMA_3ro_Sec_Esp: "36.50", RIMA_3ro_Sec_Mat: "35.07", RIMA_4to_Pri_Esp: "36.47", RIMA_4to_Pri_Mat: "45.80", RIMA_5to_Pri_Esp: "34.42", RIMA_5to_Pri_Mat: "33.02", RIMA_6to_Pri_Esp: "36.64", RIMA_6to_Pri_Mat: "34.55" },
+        {id:"11011", COUNTYID:"011", COUNTY:"Cortazar",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.88", RIMA_1ro_Sec_Mat: "39.79", RIMA_2do_Sec_Esp: "36.33", RIMA_2do_Sec_Mat: "35.51", RIMA_3ro_Sec_Esp: "37.02", RIMA_3ro_Sec_Mat: "34.93", RIMA_4to_Pri_Esp: "36.89", RIMA_4to_Pri_Mat: "46.58", RIMA_5to_Pri_Esp: "35.86", RIMA_5to_Pri_Mat: "32.56", RIMA_6to_Pri_Esp: "40.01", RIMA_6to_Pri_Mat: "34.28" },
+        {id:"11012", COUNTYID:"012", COUNTY:"Cuerámaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "36.84", RIMA_1ro_Sec_Mat: "37.01", RIMA_2do_Sec_Esp: "34.84", RIMA_2do_Sec_Mat: "35.03", RIMA_3ro_Sec_Esp: "36.51", RIMA_3ro_Sec_Mat: "33.60", RIMA_4to_Pri_Esp: "34.11", RIMA_4to_Pri_Mat: "42.79", RIMA_5to_Pri_Esp: "34.09", RIMA_5to_Pri_Mat: "30.94", RIMA_6to_Pri_Esp: "38.38", RIMA_6to_Pri_Mat: "33.93" },
+        {id:"11013", COUNTYID:"013", COUNTY:"Doctor Mora",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.23", RIMA_1ro_Sec_Mat: "37.87", RIMA_2do_Sec_Esp: "37.85", RIMA_2do_Sec_Mat: "36.39", RIMA_3ro_Sec_Esp: "41.25", RIMA_3ro_Sec_Mat: "36.53", RIMA_4to_Pri_Esp: "38.04", RIMA_4to_Pri_Mat: "45.86", RIMA_5to_Pri_Esp: "37.98", RIMA_5to_Pri_Mat: "33.39", RIMA_6to_Pri_Esp: "42.34", RIMA_6to_Pri_Mat: "35.42" },
+        {id:"11014", COUNTYID:"014", COUNTY:"Dolores Hidalgo Cuna de la Independencia Nacional", STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.71", RIMA_1ro_Sec_Mat: "38.59", RIMA_2do_Sec_Esp: "35.78", RIMA_2do_Sec_Mat: "35.54", RIMA_3ro_Sec_Esp: "38.65", RIMA_3ro_Sec_Mat: "34.09", RIMA_4to_Pri_Esp: "38.89", RIMA_4to_Pri_Mat: "47.57", RIMA_5to_Pri_Esp: "37.96", RIMA_5to_Pri_Mat: "34.44", RIMA_6to_Pri_Esp: "39.94", RIMA_6to_Pri_Mat: "35.79" },
+        {id:"11015", COUNTYID:"015", COUNTY:"Guanajuato",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "42.36", RIMA_1ro_Sec_Mat: "40.24", RIMA_2do_Sec_Esp: "37.96", RIMA_2do_Sec_Mat: "36.97", RIMA_3ro_Sec_Esp: "42.08", RIMA_3ro_Sec_Mat: "36.82", RIMA_4to_Pri_Esp: "40.50", RIMA_4to_Pri_Mat: "47.63", RIMA_5to_Pri_Esp: "39.47", RIMA_5to_Pri_Mat: "34.64", RIMA_6to_Pri_Esp: "43.61", RIMA_6to_Pri_Mat: "38.16" },
+        {id:"11016", COUNTYID:"016", COUNTY:"Huanímaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.38", RIMA_1ro_Sec_Mat: "39.09", RIMA_2do_Sec_Esp: "36.54", RIMA_2do_Sec_Mat: "34.58", RIMA_3ro_Sec_Esp: "45.32", RIMA_3ro_Sec_Mat: "43.29", RIMA_4to_Pri_Esp: "40.11", RIMA_4to_Pri_Mat: "50.67", RIMA_5to_Pri_Esp: "38.01", RIMA_5to_Pri_Mat: "34.10", RIMA_6to_Pri_Esp: "42.94", RIMA_6to_Pri_Mat: "37.42" },
+        {id:"11017", COUNTYID:"017", COUNTY:"Irapuato",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "39.42", RIMA_1ro_Sec_Mat: "39.38", RIMA_2do_Sec_Esp: "35.21", RIMA_2do_Sec_Mat: "36.38", RIMA_3ro_Sec_Esp: "38.38", RIMA_3ro_Sec_Mat: "36.23", RIMA_4to_Pri_Esp: "38.97", RIMA_4to_Pri_Mat: "49.03", RIMA_5to_Pri_Esp: "37.94", RIMA_5to_Pri_Mat: "34.96", RIMA_6to_Pri_Esp: "40.96", RIMA_6to_Pri_Mat: "37.58" },
+        {id:"11018", COUNTYID:"018", COUNTY:"Jaral del Progreso",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "44.50", RIMA_1ro_Sec_Mat: "40.24", RIMA_2do_Sec_Esp: "39.38", RIMA_2do_Sec_Mat: "37.37", RIMA_3ro_Sec_Esp: "43.16", RIMA_3ro_Sec_Mat: "36.61", RIMA_4to_Pri_Esp: "40.16", RIMA_4to_Pri_Mat: "46.38", RIMA_5to_Pri_Esp: "39.74", RIMA_5to_Pri_Mat: "34.96", RIMA_6to_Pri_Esp: "43.50", RIMA_6to_Pri_Mat: "37.07" },
+        {id:"11019", COUNTYID:"019", COUNTY:"Jerécuaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.11", RIMA_1ro_Sec_Mat: "36.51", RIMA_2do_Sec_Esp: "34.64", RIMA_2do_Sec_Mat: "33.45", RIMA_3ro_Sec_Esp: "38.09", RIMA_3ro_Sec_Mat: "34.45", RIMA_4to_Pri_Esp: "33.89", RIMA_4to_Pri_Mat: "42.21", RIMA_5to_Pri_Esp: "34.38", RIMA_5to_Pri_Mat: "30.62", RIMA_6to_Pri_Esp: "36.88", RIMA_6to_Pri_Mat: "32.35" },
+        {id:"11020", COUNTYID:"020", COUNTY:"León",                                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "39.27", RIMA_1ro_Sec_Mat: "37.30", RIMA_2do_Sec_Esp: "37.33", RIMA_2do_Sec_Mat: "36.99", RIMA_3ro_Sec_Esp: "38.03", RIMA_3ro_Sec_Mat: "32.93", RIMA_4to_Pri_Esp: "36.63", RIMA_4to_Pri_Mat: "44.07", RIMA_5to_Pri_Esp: "36.91", RIMA_5to_Pri_Mat: "32.57", RIMA_6to_Pri_Esp: "43.47", RIMA_6to_Pri_Mat: "37.49" },
+        {id:"11021", COUNTYID:"021", COUNTY:"Moroleón",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.15", RIMA_1ro_Sec_Mat: "42.30", RIMA_2do_Sec_Esp: "32.64", RIMA_2do_Sec_Mat: "34.97", RIMA_3ro_Sec_Esp: "37.22", RIMA_3ro_Sec_Mat: "34.05", RIMA_4to_Pri_Esp: "40.13", RIMA_4to_Pri_Mat: "44.44", RIMA_5to_Pri_Esp: "37.06", RIMA_5to_Pri_Mat: "33.75", RIMA_6to_Pri_Esp: "39.96", RIMA_6to_Pri_Mat: "37.28" },
+        {id:"11022", COUNTYID:"022", COUNTY:"Ocampo",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "36.42", RIMA_1ro_Sec_Mat: "33.20", RIMA_2do_Sec_Esp: "33.87", RIMA_2do_Sec_Mat: "35.90", RIMA_3ro_Sec_Esp: "41.40", RIMA_3ro_Sec_Mat: "34.79", RIMA_4to_Pri_Esp: "38.35", RIMA_4to_Pri_Mat: "46.56", RIMA_5to_Pri_Esp: "40.49", RIMA_5to_Pri_Mat: "35.39", RIMA_6to_Pri_Esp: "43.77", RIMA_6to_Pri_Mat: "38.64" },
+        {id:"11023", COUNTYID:"023", COUNTY:"Pénjamo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.85", RIMA_1ro_Sec_Mat: "38.81", RIMA_2do_Sec_Esp: "36.64", RIMA_2do_Sec_Mat: "35.80", RIMA_3ro_Sec_Esp: "38.10", RIMA_3ro_Sec_Mat: "34.06", RIMA_4to_Pri_Esp: "39.91", RIMA_4to_Pri_Mat: "47.88", RIMA_5to_Pri_Esp: "39.11", RIMA_5to_Pri_Mat: "34.98", RIMA_6to_Pri_Esp: "41.38", RIMA_6to_Pri_Mat: "37.68" },
+        {id:"11024", COUNTYID:"024", COUNTY:"Pueblo Nuevo",                                      STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.40", RIMA_1ro_Sec_Mat: "38.34", RIMA_2do_Sec_Esp: "35.53", RIMA_2do_Sec_Mat: "36.00", RIMA_3ro_Sec_Esp: "36.93", RIMA_3ro_Sec_Mat: "34.91", RIMA_4to_Pri_Esp: "39.80", RIMA_4to_Pri_Mat: "47.09", RIMA_5to_Pri_Esp: "37.69", RIMA_5to_Pri_Mat: "35.46", RIMA_6to_Pri_Esp: "40.52", RIMA_6to_Pri_Mat: "37.19" },
+        {id:"11025", COUNTYID:"025", COUNTY:"Purí­sima del Rincón",                               STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "36.46", RIMA_1ro_Sec_Mat: "35.49", RIMA_2do_Sec_Esp: "34.30", RIMA_2do_Sec_Mat: "35.14", RIMA_3ro_Sec_Esp: "36.50", RIMA_3ro_Sec_Mat: "33.41", RIMA_4to_Pri_Esp: "38.79", RIMA_4to_Pri_Mat: "45.47", RIMA_5to_Pri_Esp: "37.79", RIMA_5to_Pri_Mat: "35.74", RIMA_6to_Pri_Esp: "40.63", RIMA_6to_Pri_Mat: "36.94" },
+        {id:"11026", COUNTYID:"026", COUNTY:"Romita",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "41.89", RIMA_1ro_Sec_Mat: "41.76", RIMA_2do_Sec_Esp: "38.46", RIMA_2do_Sec_Mat: "38.45", RIMA_3ro_Sec_Esp: "41.60", RIMA_3ro_Sec_Mat: "37.16", RIMA_4to_Pri_Esp: "40.15", RIMA_4to_Pri_Mat: "48.07", RIMA_5to_Pri_Esp: "39.92", RIMA_5to_Pri_Mat: "35.83", RIMA_6to_Pri_Esp: "43.33", RIMA_6to_Pri_Mat: "38.02" },
+        {id:"11027", COUNTYID:"027", COUNTY:"Salamanca",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "44.19", RIMA_1ro_Sec_Mat: "42.91", RIMA_2do_Sec_Esp: "38.50", RIMA_2do_Sec_Mat: "39.30", RIMA_3ro_Sec_Esp: "41.46", RIMA_3ro_Sec_Mat: "37.15", RIMA_4to_Pri_Esp: "38.47", RIMA_4to_Pri_Mat: "46.80", RIMA_5to_Pri_Esp: "39.00", RIMA_5to_Pri_Mat: "36.94", RIMA_6to_Pri_Esp: "40.55", RIMA_6to_Pri_Mat: "36.11" },
+        {id:"11028", COUNTYID:"028", COUNTY:"Salvatierra",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.23", RIMA_1ro_Sec_Mat: "35.78", RIMA_2do_Sec_Esp: "34.12", RIMA_2do_Sec_Mat: "33.27", RIMA_3ro_Sec_Esp: "36.65", RIMA_3ro_Sec_Mat: "33.49", RIMA_4to_Pri_Esp: "33.19", RIMA_4to_Pri_Mat: "40.98", RIMA_5to_Pri_Esp: "33.66", RIMA_5to_Pri_Mat: "31.20", RIMA_6to_Pri_Esp: "37.60", RIMA_6to_Pri_Mat: "33.20" },
+        {id:"11029", COUNTYID:"029", COUNTY:"San Diego de la Unión",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "35.32", RIMA_1ro_Sec_Mat: "37.10", RIMA_2do_Sec_Esp: "33.96", RIMA_2do_Sec_Mat: "33.01", RIMA_3ro_Sec_Esp: "35.02", RIMA_3ro_Sec_Mat: "32.49", RIMA_4to_Pri_Esp: "33.84", RIMA_4to_Pri_Mat: "40.71", RIMA_5to_Pri_Esp: "33.39", RIMA_5to_Pri_Mat: "31.27", RIMA_6to_Pri_Esp: "37.66", RIMA_6to_Pri_Mat: "34.52" },
+        {id:"11030", COUNTYID:"030", COUNTY:"San Felipe",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.57", RIMA_1ro_Sec_Mat: "40.67", RIMA_2do_Sec_Esp: "37.33", RIMA_2do_Sec_Mat: "36.94", RIMA_3ro_Sec_Esp: "39.68", RIMA_3ro_Sec_Mat: "35.10", RIMA_4to_Pri_Esp: "42.44", RIMA_4to_Pri_Mat: "49.53", RIMA_5to_Pri_Esp: "39.47", RIMA_5to_Pri_Mat: "35.33", RIMA_6to_Pri_Esp: "42.49", RIMA_6to_Pri_Mat: "37.75" },
+        {id:"11031", COUNTYID:"031", COUNTY:"San Francisco del Rincón",                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "41.47", RIMA_1ro_Sec_Mat: "42.04", RIMA_2do_Sec_Esp: "40.83", RIMA_2do_Sec_Mat: "38.25", RIMA_3ro_Sec_Esp: "42.20", RIMA_3ro_Sec_Mat: "37.04", RIMA_4to_Pri_Esp: "35.13", RIMA_4to_Pri_Mat: "45.60", RIMA_5to_Pri_Esp: "37.74", RIMA_5to_Pri_Mat: "33.20", RIMA_6to_Pri_Esp: "41.90", RIMA_6to_Pri_Mat: "35.44" },
+        {id:"11032", COUNTYID:"032", COUNTY:"San José Iturbide",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.60", RIMA_1ro_Sec_Mat: "40.48", RIMA_2do_Sec_Esp: "36.86", RIMA_2do_Sec_Mat: "37.20", RIMA_3ro_Sec_Esp: "39.54", RIMA_3ro_Sec_Mat: "35.46", RIMA_4to_Pri_Esp: "35.90", RIMA_4to_Pri_Mat: "45.75", RIMA_5to_Pri_Esp: "35.57", RIMA_5to_Pri_Mat: "32.56", RIMA_6to_Pri_Esp: "41.29", RIMA_6to_Pri_Mat: "36.03" },
+        {id:"11033", COUNTYID:"033", COUNTY:"San Luis de la Paz",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.08", RIMA_1ro_Sec_Mat: "37.33", RIMA_2do_Sec_Esp: "36.11", RIMA_2do_Sec_Mat: "36.39", RIMA_3ro_Sec_Esp: "39.11", RIMA_3ro_Sec_Mat: "35.58", RIMA_4to_Pri_Esp: "34.19", RIMA_4to_Pri_Mat: "41.55", RIMA_5to_Pri_Esp: "33.32", RIMA_5to_Pri_Mat: "29.32", RIMA_6to_Pri_Esp: "36.99", RIMA_6to_Pri_Mat: "31.65" },
+        {id:"11034", COUNTYID:"034", COUNTY:"Santa Catarina",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "34.28", RIMA_1ro_Sec_Mat: "35.93", RIMA_2do_Sec_Esp: "35.37", RIMA_2do_Sec_Mat: "37.91", RIMA_3ro_Sec_Esp: "33.12", RIMA_3ro_Sec_Mat: "30.87", RIMA_4to_Pri_Esp: "34.50", RIMA_4to_Pri_Mat: "47.13", RIMA_5to_Pri_Esp: "36.80", RIMA_5to_Pri_Mat: "34.73", RIMA_6to_Pri_Esp: "43.62", RIMA_6to_Pri_Mat: "38.00" },
+        {id:"11035", COUNTYID:"035", COUNTY:"Santa Cruz de Juventino Rosas",                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.24", RIMA_1ro_Sec_Mat: "38.33", RIMA_2do_Sec_Esp: "34.54", RIMA_2do_Sec_Mat: "35.03", RIMA_3ro_Sec_Esp: "38.75", RIMA_3ro_Sec_Mat: "35.56", RIMA_4to_Pri_Esp: "40.17", RIMA_4to_Pri_Mat: "47.25", RIMA_5to_Pri_Esp: "36.63", RIMA_5to_Pri_Mat: "32.74", RIMA_6to_Pri_Esp: "38.18", RIMA_6to_Pri_Mat: "33.53" },
+        {id:"11036", COUNTYID:"036", COUNTY:"Santiago Maravatí­o",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "34.50", RIMA_1ro_Sec_Mat: "36.88", RIMA_2do_Sec_Esp: "39.93", RIMA_2do_Sec_Mat: "37.76", RIMA_3ro_Sec_Esp: "35.50", RIMA_3ro_Sec_Mat: "30.71", RIMA_4to_Pri_Esp: "40.76", RIMA_4to_Pri_Mat: "53.96", RIMA_5to_Pri_Esp: "40.83", RIMA_5to_Pri_Mat: "40.19", RIMA_6to_Pri_Esp: "41.85", RIMA_6to_Pri_Mat: "38.09" },
+        {id:"11037", COUNTYID:"037", COUNTY:"Silao de la Victoria",                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "38.52", RIMA_1ro_Sec_Mat: "36.23", RIMA_2do_Sec_Esp: "35.97", RIMA_2do_Sec_Mat: "34.42", RIMA_3ro_Sec_Esp: "38.25", RIMA_3ro_Sec_Mat: "33.49", RIMA_4to_Pri_Esp: "36.90", RIMA_4to_Pri_Mat: "43.43", RIMA_5to_Pri_Esp: "35.29", RIMA_5to_Pri_Mat: "31.41", RIMA_6to_Pri_Esp: "40.64", RIMA_6to_Pri_Mat: "35.20" },
+        {id:"11038", COUNTYID:"038", COUNTY:"Tarandacuao",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.62", RIMA_1ro_Sec_Mat: "41.60", RIMA_2do_Sec_Esp: "37.71", RIMA_2do_Sec_Mat: "38.25", RIMA_3ro_Sec_Esp: "44.64", RIMA_3ro_Sec_Mat: "37.95", RIMA_4to_Pri_Esp: "44.20", RIMA_4to_Pri_Mat: "61.26", RIMA_5to_Pri_Esp: "48.02", RIMA_5to_Pri_Mat: "46.49", RIMA_6to_Pri_Esp: "48.82", RIMA_6to_Pri_Mat: "45.38" },
+        {id:"11039", COUNTYID:"039", COUNTY:"Tarimoro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.77", RIMA_1ro_Sec_Mat: "37.83", RIMA_2do_Sec_Esp: "36.33", RIMA_2do_Sec_Mat: "34.90", RIMA_3ro_Sec_Esp: "38.09", RIMA_3ro_Sec_Mat: "34.53", RIMA_4to_Pri_Esp: "37.46", RIMA_4to_Pri_Mat: "44.12", RIMA_5to_Pri_Esp: "40.38", RIMA_5to_Pri_Mat: "36.71", RIMA_6to_Pri_Esp: "41.71", RIMA_6to_Pri_Mat: "36.16" },
+        {id:"11040", COUNTYID:"040", COUNTY:"Tierra Blanca",                                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "35.27", RIMA_1ro_Sec_Mat: "36.64", RIMA_2do_Sec_Esp: "34.30", RIMA_2do_Sec_Mat: "34.96", RIMA_3ro_Sec_Esp: "37.36", RIMA_3ro_Sec_Mat: "34.46", RIMA_4to_Pri_Esp: "36.54", RIMA_4to_Pri_Mat: "42.36", RIMA_5to_Pri_Esp: "34.29", RIMA_5to_Pri_Mat: "31.50", RIMA_6to_Pri_Esp: "36.74", RIMA_6to_Pri_Mat: "31.96" },
+        {id:"11041", COUNTYID:"041", COUNTY:"Uriangato",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "44.26", RIMA_1ro_Sec_Mat: "42.19", RIMA_2do_Sec_Esp: "39.93", RIMA_2do_Sec_Mat: "36.52", RIMA_3ro_Sec_Esp: "43.45", RIMA_3ro_Sec_Mat: "39.77", RIMA_4to_Pri_Esp: "37.98", RIMA_4to_Pri_Mat: "45.12", RIMA_5to_Pri_Esp: "37.36", RIMA_5to_Pri_Mat: "33.07", RIMA_6to_Pri_Esp: "41.85", RIMA_6to_Pri_Mat: "36.48" },
+        {id:"11042", COUNTYID:"042", COUNTY:"Valle de Santiago",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.37", RIMA_1ro_Sec_Mat: "39.51", RIMA_2do_Sec_Esp: "36.88", RIMA_2do_Sec_Mat: "38.08", RIMA_3ro_Sec_Esp: "39.12", RIMA_3ro_Sec_Mat: "35.81", RIMA_4to_Pri_Esp: "40.16", RIMA_4to_Pri_Mat: "47.85", RIMA_5to_Pri_Esp: "38.63", RIMA_5to_Pri_Mat: "35.88", RIMA_6to_Pri_Esp: "42.72", RIMA_6to_Pri_Mat: "37.73" },
+        {id:"11043", COUNTYID:"043", COUNTY:"Victoria",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "37.12", RIMA_1ro_Sec_Mat: "37.97", RIMA_2do_Sec_Esp: "35.61", RIMA_2do_Sec_Mat: "36.08", RIMA_3ro_Sec_Esp: "37.99", RIMA_3ro_Sec_Mat: "34.56", RIMA_4to_Pri_Esp: "32.35", RIMA_4to_Pri_Mat: "40.94", RIMA_5to_Pri_Esp: "34.07", RIMA_5to_Pri_Mat: "30.58", RIMA_6to_Pri_Esp: "38.61", RIMA_6to_Pri_Mat: "35.65" },
+        {id:"11044", COUNTYID:"044", COUNTY:"Villagrán",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.89", RIMA_1ro_Sec_Mat: "37.42", RIMA_2do_Sec_Esp: "35.71", RIMA_2do_Sec_Mat: "35.03", RIMA_3ro_Sec_Esp: "37.12", RIMA_3ro_Sec_Mat: "32.30", RIMA_4to_Pri_Esp: "37.93", RIMA_4to_Pri_Mat: "44.42", RIMA_5to_Pri_Esp: "37.10", RIMA_5to_Pri_Mat: "32.41", RIMA_6to_Pri_Esp: "39.61", RIMA_6to_Pri_Mat: "33.29" },
+        {id:"11045", COUNTYID:"045", COUNTY:"Xichú",                                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Peru",   RIMA_1ro_Sec_Esp: "36.68", RIMA_1ro_Sec_Mat: "37.51", RIMA_2do_Sec_Esp: "36.57", RIMA_2do_Sec_Mat: "36.22", RIMA_3ro_Sec_Esp: "39.13", RIMA_3ro_Sec_Mat: "35.62", RIMA_4to_Pri_Esp: "30.73", RIMA_4to_Pri_Mat: "42.05", RIMA_5to_Pri_Esp: "31.77", RIMA_5to_Pri_Mat: "30.40", RIMA_6to_Pri_Esp: "34.30", RIMA_6to_Pri_Mat: "31.58" },
+        {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_1ro_Sec_Esp: "40.24", RIMA_1ro_Sec_Mat: "41.92", RIMA_2do_Sec_Esp: "35.39", RIMA_2do_Sec_Mat: "36.63", RIMA_3ro_Sec_Esp: "38.95", RIMA_3ro_Sec_Mat: "35.80", RIMA_4to_Pri_Esp: "40.46", RIMA_4to_Pri_Mat: "48.19", RIMA_5to_Pri_Esp: "39.43", RIMA_5to_Pri_Mat: "36.52", RIMA_6to_Pri_Esp: "41.14", RIMA_6to_Pri_Mat: "37.46" } 
+    ]
+
     DataGuanajuatoRegions1ro = [
-        {id:"11001", COUNTYID:"001", COUNTY:"Abasolo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"37.66", RIMA_TELESEC_MAT_1ro_R6:"37.76", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11002", COUNTYID:"002", COUNTY:"Acámbaro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"39.60", RIMA_TELESEC_MAT_1ro_R7:"41.58" },
-        {id:"11003", COUNTYID:"003", COUNTY:"San Miguel de Allende",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"34.96", RIMA_TELESEC_MAT_1ro_R1:"34.89", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11005", COUNTYID:"005", COUNTY:"Apaseo el Grande",                                  STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"37.00", RIMA_TELESEC_MAT_1ro_R5:"36.36", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11004", COUNTYID:"004", COUNTY:"Apaseo el Alto",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"38.25", RIMA_TELESEC_MAT_1ro_R5:"39.04", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11006", COUNTYID:"006", COUNTY:"Atarjea",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"42.68", RIMA_TELESEC_MAT_1ro_R2:"43.43", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11007", COUNTYID:"007", COUNTY:"Celaya",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"37.13", RIMA_TELESEC_MAT_1ro_R5:"35.85", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11008", COUNTYID:"008", COUNTY:"Manuel Doblado",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"36.73", RIMA_TELESEC_MAT_1ro_R6:"36.26", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11009", COUNTYID:"009", COUNTY:"Comonfort",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"37.03", RIMA_TELESEC_MAT_1ro_R5:"36.18", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11010", COUNTYID:"010", COUNTY:"Coroneo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"41.64", RIMA_TELESEC_MAT_1ro_R7:"39.89" },
-        {id:"11011", COUNTYID:"011", COUNTY:"Cortazar",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"35.43", RIMA_TELESEC_MAT_1ro_R5:"35.79", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11012", COUNTYID:"012", COUNTY:"Cuerámaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"37.56", RIMA_TELESEC_MAT_1ro_R6:"37.47", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11013", COUNTYID:"013", COUNTY:"Doctor Mora",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"38.77", RIMA_TELESEC_MAT_1ro_R2:"39.86", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11014", COUNTYID:"014", COUNTY:"Dolores Hidalgo Cuna de la Independencia Nacional", STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"35.68", RIMA_TELESEC_MAT_1ro_R1:"36.22", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11015", COUNTYID:"015", COUNTY:"Guanajuato",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"36.43", RIMA_TELESEC_MAT_1ro_R4:"35.04", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11016", COUNTYID:"016", COUNTY:"Huanímaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"38.26", RIMA_TELESEC_MAT_1ro_R6:"37.94", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11017", COUNTYID:"017", COUNTY:"Irapuato",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"36.14", RIMA_TELESEC_MAT_1ro_R4:"36.26", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11018", COUNTYID:"018", COUNTY:"Jaral del Progreso",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"37.88", RIMA_TELESEC_MAT_1ro_R7:"39.26" },
-        {id:"11019", COUNTYID:"019", COUNTY:"Jerécuaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"39.26", RIMA_TELESEC_MAT_1ro_R7:"39.37" },
-        {id:"11020", COUNTYID:"020", COUNTY:"León",                                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"37.58", RIMA_TELESEC_MAT_1ro_R3:"35.73", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11021", COUNTYID:"021", COUNTY:"Moroleón",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"32.53", RIMA_TELESEC_MAT_1ro_R7:"32.28" },
-        {id:"11022", COUNTYID:"022", COUNTY:"Ocampo",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"35.58", RIMA_TELESEC_MAT_1ro_R1:"41.90", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11023", COUNTYID:"023", COUNTY:"Pénjamo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"37.13", RIMA_TELESEC_MAT_1ro_R6:"38.60", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11024", COUNTYID:"024", COUNTY:"Pueblo Nuevo",                                      STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"34.49", RIMA_TELESEC_MAT_1ro_R6:"31.80", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11025", COUNTYID:"025", COUNTY:"Purí­sima del Rincón",                               STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"38.24", RIMA_TELESEC_MAT_1ro_R4:"38.04", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11026", COUNTYID:"026", COUNTY:"Romita",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"35.58", RIMA_TELESEC_MAT_1ro_R4:"34.77", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11027", COUNTYID:"027", COUNTY:"Salamanca",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"37.78", RIMA_TELESEC_MAT_1ro_R4:"39.71", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11028", COUNTYID:"028", COUNTY:"Salvatierra",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"40.06", RIMA_TELESEC_MAT_1ro_R7:"41.17" },
-        {id:"11029", COUNTYID:"029", COUNTY:"San Diego de la Unión",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"37.12", RIMA_TELESEC_MAT_1ro_R1:"35.61", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11030", COUNTYID:"030", COUNTY:"San Felipe",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"34.77", RIMA_TELESEC_MAT_1ro_R1:"36.88", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11031", COUNTYID:"031", COUNTY:"San Francisco del Rincón",                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"36.23", RIMA_TELESEC_MAT_1ro_R4:"39.58", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11032", COUNTYID:"032", COUNTY:"San José Iturbide",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"38.62", RIMA_TELESEC_MAT_1ro_R2:"40.17", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11033", COUNTYID:"033", COUNTY:"San Luis de la Paz",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"38.80", RIMA_TELESEC_MAT_1ro_R2:"38.97", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11034", COUNTYID:"034", COUNTY:"Santa Catarina",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"30.74", RIMA_TELESEC_MAT_1ro_R2:"32.55", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11035", COUNTYID:"035", COUNTY:"Santa Cruz de Juventino Rosas",                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"36.48", RIMA_TELESEC_MAT_1ro_R5:"37.99", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11036", COUNTYID:"036", COUNTY:"Santiago Maravatí­o",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"29.09", RIMA_TELESEC_MAT_1ro_R7:"34.75" },
-        {id:"11037", COUNTYID:"037", COUNTY:"Silao de la Victoria",                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"35.02", RIMA_TELESEC_MAT_1ro_R4:"33.50", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11038", COUNTYID:"038", COUNTY:"Tarandacuao",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"40.29", RIMA_TELESEC_MAT_1ro_R7:"41.43" },
-        {id:"11039", COUNTYID:"039", COUNTY:"Tarimoro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"39.09", RIMA_TELESEC_MAT_1ro_R5:"35.92", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11040", COUNTYID:"040", COUNTY:"Tierra Blanca",                                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"34.19", RIMA_TELESEC_MAT_1ro_R2:"36.78", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11041", COUNTYID:"041", COUNTY:"Uriangato",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"42.88", RIMA_TELESEC_MAT_1ro_R7:"41.63" },
-        {id:"11042", COUNTYID:"042", COUNTY:"Valle de Santiago",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"39.50", RIMA_TELESEC_MAT_1ro_R6:"39.11", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11043", COUNTYID:"043", COUNTY:"Victoria",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"36.75", RIMA_TELESEC_MAT_1ro_R2:"37.37", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11044", COUNTYID:"044", COUNTY:"Villagrán",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"40.19", RIMA_TELESEC_MAT_1ro_R5:"36.34", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11045", COUNTYID:"045", COUNTY:"Xichú",                                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"36.44", RIMA_TELESEC_MAT_1ro_R2:"37.53", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
-        {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"40.01", RIMA_TELESEC_MAT_1ro_R7:"41.78" } 
+        {id:"11001", COUNTYID:"001", COUNTY:"Abasolo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"37.66", RIMA_TELESEC_MAT_1ro_R6:"37.76", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11002", COUNTYID:"002", COUNTY:"Acámbaro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"39.60", RIMA_TELESEC_MAT_1ro_R7:"41.58" },
+        {id:"11003", COUNTYID:"003", COUNTY:"San Miguel de Allende",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"34.96", RIMA_TELESEC_MAT_1ro_R1:"34.89", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11005", COUNTYID:"005", COUNTY:"Apaseo el Grande",                                  STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"37.00", RIMA_TELESEC_MAT_1ro_R5:"36.36", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11004", COUNTYID:"004", COUNTY:"Apaseo el Alto",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"38.25", RIMA_TELESEC_MAT_1ro_R5:"39.04", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11006", COUNTYID:"006", COUNTY:"Atarjea",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"42.68", RIMA_TELESEC_MAT_1ro_R2:"43.43", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11007", COUNTYID:"007", COUNTY:"Celaya",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"37.13", RIMA_TELESEC_MAT_1ro_R5:"35.85", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11008", COUNTYID:"008", COUNTY:"Manuel Doblado",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"36.73", RIMA_TELESEC_MAT_1ro_R6:"36.26", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11009", COUNTYID:"009", COUNTY:"Comonfort",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"37.03", RIMA_TELESEC_MAT_1ro_R5:"36.18", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11010", COUNTYID:"010", COUNTY:"Coroneo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"41.64", RIMA_TELESEC_MAT_1ro_R7:"39.89" },
+        {id:"11011", COUNTYID:"011", COUNTY:"Cortazar",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"35.43", RIMA_TELESEC_MAT_1ro_R5:"35.79", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11012", COUNTYID:"012", COUNTY:"Cuerámaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"37.56", RIMA_TELESEC_MAT_1ro_R6:"37.47", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11013", COUNTYID:"013", COUNTY:"Doctor Mora",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"38.77", RIMA_TELESEC_MAT_1ro_R2:"39.86", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11014", COUNTYID:"014", COUNTY:"Dolores Hidalgo Cuna de la Independencia Nacional", STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"35.68", RIMA_TELESEC_MAT_1ro_R1:"36.22", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11015", COUNTYID:"015", COUNTY:"Guanajuato",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"36.43", RIMA_TELESEC_MAT_1ro_R4:"35.04", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11016", COUNTYID:"016", COUNTY:"Huanímaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"38.26", RIMA_TELESEC_MAT_1ro_R6:"37.94", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11017", COUNTYID:"017", COUNTY:"Irapuato",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"36.14", RIMA_TELESEC_MAT_1ro_R4:"36.26", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11018", COUNTYID:"018", COUNTY:"Jaral del Progreso",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"37.88", RIMA_TELESEC_MAT_1ro_R7:"39.26" },
+        {id:"11019", COUNTYID:"019", COUNTY:"Jerécuaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"39.26", RIMA_TELESEC_MAT_1ro_R7:"39.37" },
+        {id:"11020", COUNTYID:"020", COUNTY:"León",                                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"37.58", RIMA_TELESEC_MAT_1ro_R3:"35.73", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11021", COUNTYID:"021", COUNTY:"Moroleón",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"32.53", RIMA_TELESEC_MAT_1ro_R7:"32.28" },
+        {id:"11022", COUNTYID:"022", COUNTY:"Ocampo",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"35.58", RIMA_TELESEC_MAT_1ro_R1:"41.90", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11023", COUNTYID:"023", COUNTY:"Pénjamo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"37.13", RIMA_TELESEC_MAT_1ro_R6:"38.60", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11024", COUNTYID:"024", COUNTY:"Pueblo Nuevo",                                      STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"34.49", RIMA_TELESEC_MAT_1ro_R6:"31.80", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11025", COUNTYID:"025", COUNTY:"Purí­sima del Rincón",                               STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"38.24", RIMA_TELESEC_MAT_1ro_R4:"38.04", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11026", COUNTYID:"026", COUNTY:"Romita",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"35.58", RIMA_TELESEC_MAT_1ro_R4:"34.77", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11027", COUNTYID:"027", COUNTY:"Salamanca",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"37.78", RIMA_TELESEC_MAT_1ro_R4:"39.71", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11028", COUNTYID:"028", COUNTY:"Salvatierra",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"40.06", RIMA_TELESEC_MAT_1ro_R7:"41.17" },
+        {id:"11029", COUNTYID:"029", COUNTY:"San Diego de la Unión",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"37.12", RIMA_TELESEC_MAT_1ro_R1:"35.61", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11030", COUNTYID:"030", COUNTY:"San Felipe",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"34.77", RIMA_TELESEC_MAT_1ro_R1:"36.88", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11031", COUNTYID:"031", COUNTY:"San Francisco del Rincón",                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"36.23", RIMA_TELESEC_MAT_1ro_R4:"39.58", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11032", COUNTYID:"032", COUNTY:"San José Iturbide",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"38.62", RIMA_TELESEC_MAT_1ro_R2:"40.17", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11033", COUNTYID:"033", COUNTY:"San Luis de la Paz",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"38.80", RIMA_TELESEC_MAT_1ro_R2:"38.97", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11034", COUNTYID:"034", COUNTY:"Santa Catarina",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"30.74", RIMA_TELESEC_MAT_1ro_R2:"32.55", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11035", COUNTYID:"035", COUNTY:"Santa Cruz de Juventino Rosas",                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"36.48", RIMA_TELESEC_MAT_1ro_R5:"37.99", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11036", COUNTYID:"036", COUNTY:"Santiago Maravatí­o",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"29.09", RIMA_TELESEC_MAT_1ro_R7:"34.75" },
+        {id:"11037", COUNTYID:"037", COUNTY:"Silao de la Victoria",                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"35.02", RIMA_TELESEC_MAT_1ro_R4:"33.50", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11038", COUNTYID:"038", COUNTY:"Tarandacuao",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"40.29", RIMA_TELESEC_MAT_1ro_R7:"41.43" },
+        {id:"11039", COUNTYID:"039", COUNTY:"Tarimoro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"39.09", RIMA_TELESEC_MAT_1ro_R5:"35.92", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11040", COUNTYID:"040", COUNTY:"Tierra Blanca",                                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"34.19", RIMA_TELESEC_MAT_1ro_R2:"36.78", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11041", COUNTYID:"041", COUNTY:"Uriangato",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"42.88", RIMA_TELESEC_MAT_1ro_R7:"41.63" },
+        {id:"11042", COUNTYID:"042", COUNTY:"Valle de Santiago",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"39.50", RIMA_TELESEC_MAT_1ro_R6:"39.11", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11043", COUNTYID:"043", COUNTY:"Victoria",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"36.75", RIMA_TELESEC_MAT_1ro_R2:"37.37", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11044", COUNTYID:"044", COUNTY:"Villagrán",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"40.19", RIMA_TELESEC_MAT_1ro_R5:"36.34", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11045", COUNTYID:"045", COUNTY:"Xichú",                                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"36.44", RIMA_TELESEC_MAT_1ro_R2:"37.53", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"00.00", RIMA_TELESEC_MAT_1ro_R7:"00.00" },
+        {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", Data: "0", RIMA_TELESEC_ESP_1ro_R1:"00.00", RIMA_TELESEC_MAT_1ro_R1:"00.00", RIMA_TELESEC_ESP_1ro_R2:"00.00", RIMA_TELESEC_MAT_1ro_R2:"00.00", RIMA_TELESEC_ESP_1ro_R3:"00.00", RIMA_TELESEC_MAT_1ro_R3:"00.00", RIMA_TELESEC_ESP_1ro_R4:"00.00", RIMA_TELESEC_MAT_1ro_R4:"00.00", RIMA_TELESEC_ESP_1ro_R5:"00.00", RIMA_TELESEC_MAT_1ro_R5:"00.00", RIMA_TELESEC_ESP_1ro_R6:"00.00", RIMA_TELESEC_MAT_1ro_R6:"00.00", RIMA_TELESEC_ESP_1ro_R7:"40.01", RIMA_TELESEC_MAT_1ro_R7:"41.78" } 
     ]
 
     DataGuanajuatoRegions2do = [
@@ -146,6 +244,55 @@
         {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_3ro_R1:"00.00", RIMA_TELESEC_MAT_3ro_R1:"00.00", RIMA_TELESEC_ESP_3ro_R2:"00.00", RIMA_TELESEC_MAT_3ro_R2:"00.00", RIMA_TELESEC_ESP_3ro_R3:"00.00", RIMA_TELESEC_MAT_3ro_R3:"00.00", RIMA_TELESEC_ESP_3ro_R4:"00.00", RIMA_TELESEC_MAT_3ro_R4:"00.00", RIMA_TELESEC_ESP_3ro_R5:"00.00", RIMA_TELESEC_MAT_3ro_R5:"00.00", RIMA_TELESEC_ESP_3ro_R6:"00.00", RIMA_TELESEC_MAT_3ro_R6:"00.00", RIMA_TELESEC_ESP_3ro_R7:"38.51", RIMA_TELESEC_MAT_3ro_R7:"36.10" } 
     ]
 
+    DataGuanajuatoResultadosDiscapacidad = [
+        {id:"11001", COUNTYID:"001", COUNTY:"Abasolo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "31", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11002", COUNTYID:"002", COUNTY:"Acámbaro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "35" },
+        {id:"11003", COUNTYID:"003", COUNTY:"San Miguel de Allende",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11005", COUNTYID:"005", COUNTY:"Apaseo el Grande",                                  STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "31", ResultadosDiscapacidadRIMA_Mat: "27" },
+        {id:"11004", COUNTYID:"004", COUNTY:"Apaseo el Alto",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11006", COUNTYID:"006", COUNTY:"Atarjea",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11007", COUNTYID:"007", COUNTY:"Celaya",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "31" },
+        {id:"11008", COUNTYID:"008", COUNTY:"Manuel Doblado",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "29", ResultadosDiscapacidadRIMA_Mat: "27" },
+        {id:"11009", COUNTYID:"009", COUNTY:"Comonfort",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "31" },
+        {id:"11010", COUNTYID:"010", COUNTY:"Coroneo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "33" },
+        {id:"11011", COUNTYID:"011", COUNTY:"Cortazar",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "33" },
+        {id:"11012", COUNTYID:"012", COUNTY:"Cuerámaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "33", ResultadosDiscapacidadRIMA_Mat: "32" },
+        {id:"11013", COUNTYID:"013", COUNTY:"Doctor Mora",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "33", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11014", COUNTYID:"014", COUNTY:"Dolores Hidalgo Cuna de la Independencia Nacional", STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "33", ResultadosDiscapacidadRIMA_Mat: "32" },
+        {id:"11015", COUNTYID:"015", COUNTY:"Guanajuato",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "33" },
+        {id:"11016", COUNTYID:"016", COUNTY:"Huanímaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "36", ResultadosDiscapacidadRIMA_Mat: "35" },
+        {id:"11017", COUNTYID:"017", COUNTY:"Irapuato",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "37", ResultadosDiscapacidadRIMA_Mat: "35" },
+        {id:"11018", COUNTYID:"018", COUNTY:"Jaral del Progreso",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "33", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11019", COUNTYID:"019", COUNTY:"Jerécuaro",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11020", COUNTYID:"020", COUNTY:"León",                                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "37", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11021", COUNTYID:"021", COUNTY:"Moroleón",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "32" },
+        {id:"11022", COUNTYID:"022", COUNTY:"Ocampo",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "31" },
+        {id:"11023", COUNTYID:"023", COUNTY:"Pénjamo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11024", COUNTYID:"024", COUNTY:"Pueblo Nuevo",                                      STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11025", COUNTYID:"025", COUNTY:"Purí­sima del Rincón",                               STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "38", ResultadosDiscapacidadRIMA_Mat: "38" },
+        {id:"11026", COUNTYID:"026", COUNTY:"Romita",                                            STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "43", ResultadosDiscapacidadRIMA_Mat: "43" },
+        {id:"11027", COUNTYID:"027", COUNTY:"Salamanca",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "37", ResultadosDiscapacidadRIMA_Mat: "35" },
+        {id:"11028", COUNTYID:"028", COUNTY:"Salvatierra",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "35" },
+        {id:"11029", COUNTYID:"029", COUNTY:"San Diego de la Unión",                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11030", COUNTYID:"030", COUNTY:"San Felipe",                                        STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "33", ResultadosDiscapacidadRIMA_Mat: "31" },
+        {id:"11031", COUNTYID:"031", COUNTY:"San Francisco del Rincón",                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "37", ResultadosDiscapacidadRIMA_Mat: "36" },
+        {id:"11032", COUNTYID:"032", COUNTY:"San José Iturbide",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11033", COUNTYID:"033", COUNTY:"San Luis de la Paz",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "32" },
+        {id:"11034", COUNTYID:"034", COUNTY:"Santa Catarina",                                    STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "33", ResultadosDiscapacidadRIMA_Mat: "33" },
+        {id:"11035", COUNTYID:"035", COUNTY:"Santa Cruz de Juventino Rosas",                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "31", ResultadosDiscapacidadRIMA_Mat: "28" },
+        {id:"11036", COUNTYID:"036", COUNTY:"Santiago Maravatí­o",                                STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "37", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11037", COUNTYID:"037", COUNTY:"Silao de la Victoria",                              STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "32" },
+        {id:"11038", COUNTYID:"038", COUNTY:"Tarandacuao",                                       STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "25", ResultadosDiscapacidadRIMA_Mat: "26" },
+        {id:"11039", COUNTYID:"039", COUNTY:"Tarimoro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "38", ResultadosDiscapacidadRIMA_Mat: "32" },
+        {id:"11040", COUNTYID:"040", COUNTY:"Tierra Blanca",                                     STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "29", ResultadosDiscapacidadRIMA_Mat: "28" },
+        {id:"11041", COUNTYID:"041", COUNTY:"Uriangato",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "32", ResultadosDiscapacidadRIMA_Mat: "30" },
+        {id:"11042", COUNTYID:"042", COUNTY:"Valle de Santiago",                                 STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "34" },
+        {id:"11043", COUNTYID:"043", COUNTY:"Victoria",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "34", ResultadosDiscapacidadRIMA_Mat: "35" },
+        {id:"11044", COUNTYID:"044", COUNTY:"Villagrán",                                         STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "30", ResultadosDiscapacidadRIMA_Mat: "31" },
+        {id:"11045", COUNTYID:"045", COUNTY:"Xichú",                                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "29", ResultadosDiscapacidadRIMA_Mat: "29" },
+        {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", ResultadosDiscapacidadRIMA_Esp: "35", ResultadosDiscapacidadRIMA_Mat: "35" } 
+    ]
+
     DataGuanajuatoGeneral = [
         {id:"11001", COUNTYID:"001", COUNTY:"Abasolo",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro:"37.66", RIMA_TELESEC_MAT_1ro:"37.76", RIMA_TELESEC_ESP_2do:"36.31", RIMA_TELESEC_MAT_2do:"35.47", RIMA_TELESEC_ESP_3ro:"37.03", RIMA_TELESEC_MAT_3ro:"34.58" },
         {id:"11002", COUNTYID:"002", COUNTY:"Acámbaro",                                          STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro:"39.60", RIMA_TELESEC_MAT_1ro:"41.58", RIMA_TELESEC_ESP_2do:"36.64", RIMA_TELESEC_MAT_2do:"36.67", RIMA_TELESEC_ESP_3ro:"37.39", RIMA_TELESEC_MAT_3ro:"34.00" },
@@ -194,6 +341,130 @@
         {id:"11045", COUNTYID:"045", COUNTY:"Xichú",                                             STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro:"36.44", RIMA_TELESEC_MAT_1ro:"37.53", RIMA_TELESEC_ESP_2do:"36.47", RIMA_TELESEC_MAT_2do:"36.24", RIMA_TELESEC_ESP_3ro:"39.03", RIMA_TELESEC_MAT_3ro:"35.77" },
         {id:"11046", COUNTYID:"046", COUNTY:"Yuriria",                                           STATEID:"11", STATE:"Guanajuato", CNTRY:"Mexico", RIMA_TELESEC_ESP_1ro:"40.01", RIMA_TELESEC_MAT_1ro:"41.78", RIMA_TELESEC_ESP_2do:"34.29", RIMA_TELESEC_MAT_2do:"35.90", RIMA_TELESEC_ESP_3ro:"38.51", RIMA_TELESEC_MAT_3ro:"36.10" } 
     ]
+
+    var DataCategoriesRIMAPorGrado = {
+        "RIMA_1ro_Sec_Esp":  {
+             t1:  34.28,
+            t11:  37.12,
+             t2:  37.13,
+            t21:  40.06,
+             t3:  40.07,
+            t31:  43.00,
+             t4:  43.01,
+            t41:  45.64
+        },
+        "RIMA_1ro_Sec_Mat":  {
+            t1:  33.20,
+           t11:  35.62,
+            t2:  35.63,
+           t21:  38.15,
+            t3:  38.16,
+           t31:  40.68,
+            t4:  40.69,
+           t41:  42.91
+       },
+       "RIMA_2do_Sec_Esp":  {
+             t1:  32.64,
+            t11:  34.69,
+             t2:  34.70,
+            t21:  36.84,
+             t3:  36.85,
+            t31:  38.99,
+             t4:  39.00,
+            t41:  40.83
+        },
+        "RIMA_2do_Sec_Mat":  {
+             t1:  33.01,
+            t11:  35.02,
+             t2:  35.03,
+            t21:  37.12,
+             t3:  37.13,
+            t31:  39.22,
+             t4:  39.23,
+            t41:  41.03
+        },
+        "RIMA_3ro_Sec_Esp":  {
+            t1:  33.12,
+           t11:  36.17,
+            t2:  36.18,
+           t21:  39.32,
+            t3:  39.33,
+           t31:  42.47,
+            t4:  42.48,
+           t41:  45.32
+       },
+       "RIMA_3ro_Sec_Mat":  {
+            t1:  30.71,
+           t11:  33.85,
+            t2:  33.86,
+           t21:  37.10,
+            t3:  37.11,
+           t31:  40.35,
+            t4:  40.36,
+           t41:  43.29
+       },
+       "RIMA_4to_Pri_Esp":  {
+             t1:  30.73,
+            t11:  34.10,
+             t2:  34.11,
+            t21:  37.57,
+             t3:  37.58,
+            t31:  41.03,
+             t4:  41.04,
+            t41:  44.20
+        },
+        "RIMA_4to_Pri_Mat":  {
+             t1:  40.09,
+            t11:  45.38,
+             t2:  45.39,
+            t21:  50.77,
+             t3:  50.78,
+            t31:  56.17,
+             t4:  56.18,
+            t41:  61.26
+        },
+        "RIMA_5to_Pri_Esp":  {
+            t1:  31.77,
+           t11:  35.83,
+            t2:  35.84,
+           t21:  39.99,
+            t3:  40.00,
+           t31:  44.16,
+            t4:  44.17,
+           t41:  48.02
+       },
+       "RIMA_5to_Pri_Mat":  {
+            t1:  29.32,
+           t11:  33.62,
+            t2:  33.63,
+           t21:  38.01,
+            t3:  38.02,
+           t31:  42.40,
+            t4:  42.41,
+           t41:  46.49
+       },
+        "RIMA_6to_Pri_Esp":  {
+            t1:  34.30,
+           t11:  37.93,
+            t2:  37.94,
+           t21:  41.66,
+            t3:  41.67,
+           t31:  45.39,
+            t4:  45.40,
+           t41:  48.82
+       },
+       "RIMA_6to_Pri_Mat":  {
+            t1:  31.58,
+           t11:  35.03,
+            t2:  35.04,
+           t21:  38.58,
+            t3:  38.59,
+           t31:  42.13,
+            t4:  42.14,
+           t41:  45.38
+       }
+
+    }
 
     var DataCategories1ro = {
         "RIMA_TELESEC_ESP_1ro_R1":  {
@@ -494,6 +765,30 @@
             t31:    41.32,
             t4:     41.33,
             t41:    45.19 
+
+        }
+    }
+
+    var DataResultadosDiscapacidad = {
+        "ResultadosDiscapacidadRIMA_Esp":  {
+            t1:     25,
+            t11:    30,
+            t2:     30,
+            t21:    34,
+            t3:     34,
+            t31:    39,
+            t4:     39,
+            t41:    43 
+        },
+        "ResultadosDiscapacidadRIMA_Mat":  {
+            t1:     26,
+            t11:    30,
+            t2:     31,
+            t21:    35,
+            t3:     36,
+            t31:    40,
+            t4:     41,
+            t41:    43 
 
         }
     }
@@ -1719,25 +2014,253 @@
         marker.stroke = am4core.color("#ccc");
         */
     }
+
+    function Mapa_RIMA_Resultados_Discapacidad(DataIndex){
+//      Creamos la instancia del mapa
+        var chart = am4core.create("mapa_guanajuato", am4maps.MapChart);
+        chart.geodata = am4geodata_region_mexico_guaHigh;
+        chart.projection = new am4maps.projections.Miller();
+        chart.maxZoomLevel = 1;
+        chart.seriesContainer.draggable = false;
+        chart.seriesContainer.resizable = false;
+
+//      Asignamos un color distinto para cada una de las regiones
+        var s1_range = [], s2_range = [], s3_range = [], s4_range = [], s0_range = [];
+
+        var th1 = DataResultadosDiscapacidad[DataIndex].t1, th12 = DataResultadosDiscapacidad[DataIndex].t11;
+        var th2 = DataResultadosDiscapacidad[DataIndex].t2, th22 = DataResultadosDiscapacidad[DataIndex].t21;
+        var th3 = DataResultadosDiscapacidad[DataIndex].t3, th32 = DataResultadosDiscapacidad[DataIndex].t31;
+        var th4 = DataResultadosDiscapacidad[DataIndex].t4, th42 = DataResultadosDiscapacidad[DataIndex].t41;
+
+        for(var i=0; i<DataGuanajuatoResultadosDiscapacidad.length; i++){
+            var Map_data = DataGuanajuatoResultadosDiscapacidad[i][DataIndex];
+
+                if ( Map_data >= th1 && Map_data <= th12 )
+                s1_range.push( DataGuanajuatoResultadosDiscapacidad[i].id );
+            else if ( Map_data >= th2 && Map_data <= th22 )
+                s2_range.push( DataGuanajuatoResultadosDiscapacidad[i].id );
+            else if ( Map_data >= th3 && Map_data <= th32 )
+                s3_range.push( DataGuanajuatoResultadosDiscapacidad[i].id );
+            else if ( Map_data >= th4 && Map_data <= th42 )
+                s4_range.push( DataGuanajuatoResultadosDiscapacidad[i].id );
+            else if( Map_data == 0 )
+                s0_range.push( DataGuanajuatoResultadosDiscapacidad[i].id )
+        }
+
+        var MapLineColor     = "rgba(250, 250, 250, 0.5)  ";
+        var ColorMap = ColorPalette.Blue_Grey;
+
+        /* 1er color */
+        var s1 = chart.series.push(new am4maps.MapPolygonSeries());
+        s1.name = th1 + "% - " + th12 + "%";
+        s1.useGeodata = true;
+        s1.include = s1_range;
+        s1.mapPolygons.template.fill = am4core.color( ColorMap[0].Range1 );
+        s1.fill = am4core.color( ColorMap[0].Range1 );
+
+        var pts1 = s1.mapPolygons.template;
+        pts1.stroke = am4core.color(MapLineColor);
+
+        /* 2do color */
+        var s2 = chart.series.push(new am4maps.MapPolygonSeries());
+        s2.name = th2 + "% - " + th22 + "%";
+        s2.useGeodata = true;
+        s2.include = s2_range;
+        s2.mapPolygons.template.fill = am4core.color( ColorMap[0].Range2 );
+        s2.fill = am4core.color( ColorMap[0].Range2 );
+
+        var pts2 = s2.mapPolygons.template;
+        pts2.stroke = am4core.color(MapLineColor);
+
+        /* 3er color */
+        var s3 = chart.series.push(new am4maps.MapPolygonSeries());
+        s3.name = th3 + "% - " + th32 + "%";
+        s3.useGeodata = true;
+        s3.include = s3_range;
+        s3.mapPolygons.template.fill = am4core.color( ColorMap[0].Range3 );
+        s3.fill = am4core.color( ColorMap[0].Range3 );
+
+        var pts3 = s3.mapPolygons.template;
+        pts3.stroke = am4core.color(MapLineColor);
+
+        /* 4to color */
+        var s4 = chart.series.push(new am4maps.MapPolygonSeries());
+        s4.name = th4 + "% - " + th42 + "%";
+        s4.useGeodata = true;
+        s4.include = s4_range;
+        s4.mapPolygons.template.fill = am4core.color( ColorMap[0].Range4 );
+        s4.fill = am4core.color( ColorMap[0].Range4 );
+
+        var pts4 = s4.mapPolygons.template;
+        pts4.stroke = am4core.color(MapLineColor);
+
+        chart.legend = new am4maps.Legend();
+        chart.legend.position = "right";
+        chart.legend.align = "right";
+        chart.legend.valign = "middle";
+
+        var marker = chart.legend.markers.template.children.getIndex(0);
+        marker.cornerRadius(12, 12, 12, 12);
+        marker.strokeWidth = 2;
+        marker.strokeOpacity = 0.6;
+        marker.stroke = am4core.color("#ccc");
+    }
+
+    function Mapa_RIMA_Por_Grado(DataIndex, MapColor){
+//      Creamos la instancia del mapa
+        var chart = am4core.create("mapa_guanajuato", am4maps.MapChart);
+        chart.geodata = am4geodata_region_mexico_guaHigh;
+        chart.projection = new am4maps.projections.Miller();
+        chart.maxZoomLevel = 1;
+        chart.seriesContainer.draggable = false;
+        chart.seriesContainer.resizable = false;
+
+//      Asignamos un color distinto para cada una de las regiones
+        var s1_range = [], s2_range = [], s3_range = [], s4_range = [], s0_range = [];
+
+        var th1 = DataCategoriesRIMAPorGrado[DataIndex].t1, th12 = DataCategoriesRIMAPorGrado[DataIndex].t11;
+        var th2 = DataCategoriesRIMAPorGrado[DataIndex].t2, th22 = DataCategoriesRIMAPorGrado[DataIndex].t21;
+        var th3 = DataCategoriesRIMAPorGrado[DataIndex].t3, th32 = DataCategoriesRIMAPorGrado[DataIndex].t31;
+        var th4 = DataCategoriesRIMAPorGrado[DataIndex].t4, th42 = DataCategoriesRIMAPorGrado[DataIndex].t41;
+
+        for(var i=0; i<DataRIMAPorGrado.length; i++){
+            var Map_data = DataRIMAPorGrado[i][DataIndex];
+
+                if ( Map_data >= th1 && Map_data <= th12 )
+                s1_range.push( DataRIMAPorGrado[i].id );
+            else if ( Map_data >= th2 && Map_data <= th22 )
+                s2_range.push( DataRIMAPorGrado[i].id );
+            else if ( Map_data >= th3 && Map_data <= th32 )
+                s3_range.push( DataRIMAPorGrado[i].id );
+            else if ( Map_data >= th4 && Map_data <= th42 )
+                s4_range.push( DataRIMAPorGrado[i].id );
+            else if( Map_data == 0 )
+                s0_range.push( DataRIMAPorGrado[i].id )
+        }
+
+        var MapLineColor = "rgba(250, 250, 250, 0.5)  ";
+        var ColorMap     = MapColor;
+
+        /* 1er color */
+        var s1 = chart.series.push(new am4maps.MapPolygonSeries());
+        s1.name = th1 + "% - " + th12 + "%";
+        s1.useGeodata = true;
+        s1.include = s1_range;
+        s1.mapPolygons.template.fill = am4core.color( ColorMap[0].Range1 );
+        s1.fill = am4core.color( ColorMap[0].Range1 );
+
+        var pts1 = s1.mapPolygons.template;
+        pts1.stroke = am4core.color(MapLineColor);
+
+        /* 2do color */
+        var s2 = chart.series.push(new am4maps.MapPolygonSeries());
+        s2.name = th2 + "% - " + th22 + "%";
+        s2.useGeodata = true;
+        s2.include = s2_range;
+        s2.mapPolygons.template.fill = am4core.color( ColorMap[0].Range2 );
+        s2.fill = am4core.color( ColorMap[0].Range2 );
+
+        var pts2 = s2.mapPolygons.template;
+        pts2.stroke = am4core.color(MapLineColor);
+
+        /* 3er color */
+        var s3 = chart.series.push(new am4maps.MapPolygonSeries());
+        s3.name = th3 + "% - " + th32 + "%";
+        s3.useGeodata = true;
+        s3.include = s3_range;
+        s3.mapPolygons.template.fill = am4core.color( ColorMap[0].Range3 );
+        s3.fill = am4core.color( ColorMap[0].Range3 );
+
+        var pts3 = s3.mapPolygons.template;
+        pts3.stroke = am4core.color(MapLineColor);
+
+        /* 4to color */
+        var s4 = chart.series.push(new am4maps.MapPolygonSeries());
+        s4.name = th4 + "% - " + th42 + "%";
+        s4.useGeodata = true;
+        s4.include = s4_range;
+        s4.mapPolygons.template.fill = am4core.color( ColorMap[0].Range4 );
+        s4.fill = am4core.color( ColorMap[0].Range4 );
+
+        var pts4 = s4.mapPolygons.template;
+        pts4.stroke = am4core.color(MapLineColor);
+
+        chart.legend = new am4maps.Legend();
+        chart.legend.position = "right";
+        chart.legend.align = "right";
+        chart.legend.valign = "middle";
+
+        var marker = chart.legend.markers.template.children.getIndex(0);
+        marker.cornerRadius(12, 12, 12, 12);
+        marker.strokeWidth = 2;
+        marker.strokeOpacity = 0.6;
+        marker.stroke = am4core.color("#ccc");
+    }
     
     function EmptyMap(){
         var chart = am4core.create("mapa_guanajuato", am4maps.MapChart);
         chart.geodata = am4geodata_region_mexico_guaHigh;
         chart.projection = new am4maps.projections.Miller();
 
-        var empty_range = [];
+        var empty_range = [], range_values = [];
 
-        for(var i=0; i<DataGuanajuatoRegions1ro.length; i++){
-            var coberturaSuperiorData = DataGuanajuatoRegions1ro[i].CoberturaSuperior;
-            empty_range.push( DataGuanajuatoRegions1ro[i].id );
+        for(var i=0; i<DataGuanajuatoEmpty.length; i++){
+            empty_range.push( DataGuanajuatoEmpty[i].id );
         }
 
         /* Sin color */
+        /*
+        var series = chart.series.push(new am4maps.MapPolygonSeries());
+        //series.name = DataGuanajuatoRegions1ro[0].RIMA_TELESEC_ESP_1ro_R1;
+        series.useGeodata = true;
+        series.name = empty_range;
+        series.include = empty_range;
+        series.fill = am4core.color( 'rgb(230, 230, 230)' );
+        series.events.on("over", over);
+        //series.events.on("out", out);
+        
+        series.mapPolygons.template.tooltipText = "{COUNTY}:";
+        series.mapPolygons.template.fill = am4core.color( 'rgb(230, 230, 230)' );
+      
+        var hover = series.mapPolygons.template.states.create("highlight");
+        hover.properties.fill = am4core.color( 'rgb(230, 230, 230)' );
+
+        / * --- -- - - - - - - --  -- - - - - - - - - - - - -- --- - - -- ----- - - --  * /
+        // Create map polygon series
+        var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
+        polygonSeries.useGeodata = true;
+        polygonSeries.data = empty_range;
+
+        // Configure series
+        var polygonTemplate = polygonSeries.mapPolygons.template;
+        polygonTemplate.tooltipText = "{COUNTY}";
+        
+        // Capturamos el evento "click" sobre un país
+        polygonTemplate.events.on("hit", function(ev) {
+            console.log( ev.target.dataItem.dataContext );
+        });
+
+        function over(ev) {
+            ev.target.mapPolygons.each(function(polygon) {
+                polygon.setState("highlight");
+                //console.log( polygon );
+            });
+        }
+            
+        function out(ev) {
+        ev.target.mapPolygons.each(function(polygon) {
+            polygon.setState("default");
+        });
+        }
+        */
+
         var empty = chart.series.push(new am4maps.MapPolygonSeries());
         empty.useGeodata = true;
         empty.include = empty_range;
         empty.mapPolygons.template.fill = am4core.color( 'rgb(230, 230, 230)' );
         empty.fill = am4core.color( 'rgb(230, 230, 230)' );
+        empty.mapPolygons.template.tooltipText = "{id}";
+        console.log( empty.mapPolygons.template.tooltipText );
 
         var empty_1 = empty.mapPolygons.template;
         empty_1.stroke = am4core.color("rgba(108, 108, 108, 1)");
@@ -1745,12 +2268,414 @@
         chart.legend = new am4maps.Legend();
         chart.legend.position = "right";
         chart.legend.align = "right";
+
+        $('.title-map').text('Mapas estadísticos');
+    }
+
+    function getDataMap( id ){
+        console.log( id );
     }
 
     $(function(){
         $('.collapsible').collapsible();
+        $('select').formSelect();
 
-        $('.collection-regionGeneral .collection-item')[0].click();
+        $('#SelectCatalogoMapas').val(1).change();
+        //$('.collapsible-mapas-estatales').collapsible('open', 0);
+        $('.collection-4to-pri .collection-item')[0].click();
+    });
+
+    $('.collection-4to-pri .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Español":
+                Mapa_RIMA_Por_Grado('RIMA_4to_Pri_Esp', ColorPalette.Cyan);
+                $('.title-map').text('Resultados evaluación RIMA en Español para 4to de Primaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-SanFelipe').removeClass('black-text').addClass('white-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text');   
+                $('.label-DoloresHidalgo').removeClass('black-text').addClass('white-text');   
+                $('.label-Ocampo').removeClass('black-text').addClass('white-text');
+                $('.label-Guanajuato').removeClass('black-text').addClass('white-text');
+                $('.label-DoctorMora').removeClass('black-text').addClass('white-text');
+                $('.label-Atarjea').removeClass('black-text').addClass('white-text');
+                $('.label-Romita').removeClass('black-text').addClass('white-text');
+                $('.label-Irapuato').removeClass('black-text').addClass('white-text');
+                $('.label-Salamanca').removeClass('black-text').addClass('white-text');
+                $('.label-SantaCruzDeJuventinoRosas').removeClass('black-text').addClass('white-text');
+                $('.label-Comonfort').removeClass('black-text').addClass('white-text');
+                $('.label-Villagran').removeClass('black-text').addClass('white-text');
+                $('.label-PuebloNuevo').removeClass('black-text').addClass('white-text');
+                $('.label-ValleDeSantiago').removeClass('black-text').addClass('white-text');
+                $('.label-Abasolo').removeClass('black-text').addClass('white-text');
+                $('.label-Penjamo').removeClass('black-text').addClass('white-text');
+                $('.label-Huanimaro').removeClass('black-text').addClass('white-text');
+                $('.label-JaralDelProgreso').removeClass('black-text').addClass('white-text');
+                $('.label-SantiagoMaravatio').removeClass('black-text').addClass('white-text');
+                $('.label-Uriangato').removeClass('black-text').addClass('white-text');
+                $('.label-Yuriria').removeClass('black-text').addClass('white-text');
+                $('.label-Moroleon').removeClass('black-text').addClass('white-text');
+                $('.label-Acambaro').removeClass('black-text').addClass('white-text');
+
+
+            break; 
+            case "Matemáticas":
+                Mapa_RIMA_Por_Grado('RIMA_4to_Pri_Mat', ColorPalette.Cyan);
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas para 4to de Primaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text'); 
+            break;         
+        } 
+    });
+
+    $('.collection-5to-pri .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Español":
+                Mapa_RIMA_Por_Grado('RIMA_5to_Pri_Esp', ColorPalette.Brown);
+                $('.title-map').text('Resultados evaluación RIMA en Español para 5to de Primaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-Ocampo').removeClass('black-text').addClass('white-text');
+                $('.label-Tarimoro').removeClass('black-text').addClass('white-text');
+                $('.label-SantiagoMaravatio').removeClass('black-text').addClass('white-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text');
+            break; 
+            case "Matemáticas":
+                Mapa_RIMA_Por_Grado('RIMA_5to_Pri_Mat', ColorPalette.Brown);
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas para 5to de Primaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text'); 
+                $('.label-SantiagoMaravatio').removeClass('black-text').addClass('white-text'); 
+            break;         
+        } 
+    });
+
+    $('.collection-6to-pri .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Español":
+                Mapa_RIMA_Por_Grado('RIMA_6to_Pri_Esp', ColorPalette.Teal);
+                $('.title-map').text('Resultados evaluación RIMA en Español para 6to de Primaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-SanFelipe').removeClass('black-text').addClass('white-text');
+                $('.label-Leon').removeClass('black-text').addClass('white-text');
+                $('.label-Ocampo').removeClass('black-text').addClass('white-text');
+                $('.label-SantiagoMaravatio').removeClass('black-text').addClass('white-text');
+                $('.label-Tarimoro').removeClass('black-text').addClass('white-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text');
+                $('.label-SanFrancisco').removeClass('black-text').addClass('white-text');
+                $('.label-Romita').removeClass('black-text').addClass('white-text');
+                $('.label-ManuelDoblado').removeClass('black-text').addClass('white-text');
+                $('.label-Guanajuato').removeClass('black-text').addClass('white-text');
+                $('.label-SanMiguelDeAllende').removeClass('black-text').addClass('white-text');
+                $('.label-DoctorMora').removeClass('black-text').addClass('white-text');
+                $('.label-SantaCatarina').removeClass('black-text').addClass('white-text');
+                $('.label-Atarjea').removeClass('black-text').addClass('white-text');
+                $('.label-ValleDeSantiago').removeClass('black-text').addClass('white-text');
+                $('.label-Huanimaro').removeClass('black-text').addClass('white-text');
+                $('.label-JaralDelProgreso').removeClass('black-text').addClass('white-text');
+                $('.label-Acambaro').removeClass('black-text').addClass('white-text');
+                $('.label-Uriangato').removeClass('black-text').addClass('white-text');
+            break; 
+            case "Matemáticas":
+                Mapa_RIMA_Por_Grado('RIMA_6to_Pri_Mat', ColorPalette.Teal);
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas para 6to de Primaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-Ocampo').removeClass('black-text').addClass('white-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text');
+                $('.label-Acambaro').removeClass('black-text').addClass('white-text');
+            break;         
+        } 
+    });
+
+    $('.collection-1ro-sec .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Español":
+                Mapa_RIMA_Por_Grado('RIMA_1ro_Sec_Esp', ColorPalette.Blue_Grey);
+                $('.title-map').text('Resultados evaluación RIMA en Español para 1ro de Secundaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-Guanajuato').removeClass('black-text').addClass('white-text');
+                $('.label-Romita').removeClass('black-text').addClass('white-text');
+                $('.label-SanFrancisco').removeClass('black-text').addClass('white-text');
+                $('.label-ManuelDoblado').removeClass('black-text').addClass('white-text');
+                $('.label-ValleDeSantiago').removeClass('black-text').addClass('white-text');
+                $('.label-Villagran').removeClass('black-text').addClass('white-text');
+                $('.label-JaralDelProgreso').removeClass('black-text').addClass('white-text');
+                $('.label-Uriangato').removeClass('black-text').addClass('white-text');
+                $('.label-Yuriria').removeClass('black-text').addClass('white-text');
+                $('.label-Salamanca').removeClass('black-text').addClass('white-text');
+                $('.label-Tarimoro').removeClass('black-text').addClass('white-text');
+                $('.label-ApaseoElGrande').removeClass('black-text').addClass('white-text');
+                $('.label-Acambaro').removeClass('black-text').addClass('white-text');
+                $('.label-DoctorMora').removeClass('black-text').addClass('white-text');
+                $('.label-SanJoseIturbide').removeClass('black-text').addClass('white-text');
+                $('.label-Atarjea').removeClass('black-text').addClass('white-text');
+                
+
+            break; 
+            case "Matemáticas":
+                Mapa_RIMA_Por_Grado('RIMA_1ro_Sec_Mat', ColorPalette.Blue_Grey);
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas para 1ro de Secundaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('black-text').addClass('white-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-Ocampo').removeClass('white-text').addClass('black-text');                
+            break;         
+        } 
+    });
+
+    $('.collection-2do-sec .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Español":
+                Mapa_RIMA_Por_Grado('RIMA_2do_Sec_Esp', ColorPalette.Blue_Grey);
+                $('.title-map').text('Resultados evaluación RIMA en Español para 2do de Secundaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-Guanajuato').removeClass('black-text').addClass('white-text');
+                $('.label-Romita').removeClass('black-text').addClass('white-text');
+                $('.label-SanFrancisco').removeClass('black-text').addClass('white-text');
+                $('.label-ManuelDoblado').removeClass('black-text').addClass('white-text');
+                $('.label-ValleDeSantiago').removeClass('black-text').addClass('white-text');
+                $('.label-JaralDelProgreso').removeClass('black-text').addClass('white-text');
+                $('.label-Uriangato').removeClass('black-text').addClass('white-text');
+                $('.label-Yuriria').removeClass('black-text').addClass('white-text');
+                $('.label-Salamanca').removeClass('black-text').addClass('white-text');
+                $('.label-ApaseoElGrande').removeClass('black-text').addClass('white-text');
+                $('.label-Acambaro').removeClass('black-text').addClass('white-text');
+                $('.label-DoctorMora').removeClass('black-text').addClass('white-text');
+                $('.label-SanJoseIturbide').removeClass('black-text').addClass('white-text');
+                $('.label-Atarjea').removeClass('black-text').addClass('white-text');
+                $('.label-SanFelipe').removeClass('black-text').addClass('white-text');
+                $('.label-Leon').removeClass('black-text').addClass('white-text');
+                $('.label-SantiagoMaravatio').removeClass('black-text').addClass('white-text');
+                $('.label-Comonfort').removeClass('black-text').addClass('white-text');
+                
+
+            break; 
+            case "Matemáticas":
+                Mapa_RIMA_Por_Grado('RIMA_2do_Sec_Mat', ColorPalette.Blue_Grey);
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas para 2do de Secundaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-ManuelDoblado').removeClass('black-text').addClass('white-text');
+                $('.label-Salamanca').removeClass('black-text').addClass('white-text');
+                $('.label-ApaseoElGrande').removeClass('black-text').addClass('white-text');
+            break;         
+        } 
+    });
+
+    $('.collection-3ro-sec .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Español":
+                Mapa_RIMA_Por_Grado('RIMA_3ro_Sec_Esp', ColorPalette.Blue_Grey);
+                $('.title-map').text('Resultados evaluación RIMA en Español para 3ro de Secundaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-Ocampo').removeClass('black-text').addClass('white-text');
+                $('.label-SanFelipe').removeClass('black-text').addClass('white-text');
+                $('.label-SanFrancisco').removeClass('black-text').addClass('white-text');
+                $('.label-Salamanca').removeClass('black-text').addClass('white-text');
+                $('.label-Huanimaro').removeClass('black-text').addClass('white-text');
+                $('.label-JaralDelProgreso').removeClass('black-text').addClass('white-text');
+                $('.label-Uriangato').removeClass('black-text').addClass('white-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text');
+                $('.label-SanMiguelDeAllende').removeClass('black-text').addClass('white-text');
+                $('.label-SanJoseIturbide').removeClass('black-text').addClass('white-text');
+                $('.label-DoctorMora').removeClass('black-text').addClass('white-text');
+                $('.label-Atarjea').removeClass('black-text').addClass('white-text');
+                $('.label-Romita').removeClass('black-text').addClass('white-text');
+                $('.label-Comonfort').removeClass('black-text').addClass('white-text');
+                $('.label-Guanajuato').removeClass('black-text').addClass('white-text');
+                $('.label-ApaseoElAlto').removeClass('black-text').addClass('white-text');
+                $('.label-ApaseoElGrande').removeClass('black-text').addClass('white-text');
+
+
+
+
+                $('.label-Guanajuato').removeClass('black-text').addClass('white-text');
+            break; 
+            case "Matemáticas":
+                Mapa_RIMA_Por_Grado('RIMA_3ro_Sec_Mat', ColorPalette.Blue_Grey);
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas para 3ro de Secundaria');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('white-text').addClass('black-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-Atarjea').removeClass('black-text').addClass('white-text');
+                $('.label-SanMiguelDeAllende').removeClass('black-text').addClass('white-text');
+                $('.label-Salamanca').removeClass('black-text').addClass('white-text');
+                $('.label-Romita').removeClass('black-text').addClass('white-text');
+                $('.label-ApaseoElGrande').removeClass('black-text').addClass('white-text');
+                $('.label-Uriangato').removeClass('black-text').addClass('white-text');
+                $('.label-Tarandacuao').removeClass('black-text').addClass('white-text');
+                $('.label-Huanimaro').removeClass('black-text').addClass('white-text');
+            break;         
+        } 
+    });
+
+    $('#SelectCatalogoMapas').on('change', function(){
+        var cat_mapas = $(this).val();
+
+        console.log( $('#SelectCatalogoMapas option:selected').val() );
+
+        if( cat_mapas == 1 ){
+            $('.collapsible-mapas-estatales').fadeIn();
+            $('.collapsible-telesecundarias').hide();
+        }else if( cat_mapas == 2 ){
+            $('.collapsible-mapas-estatales').hide();
+            $('.collapsible-telesecundarias').fadeIn();
+        }
+
+    });
+
+    $('.collection-otros-mapas .collection-item').on('click', function(){
+        $(this).siblings().removeClass('collection-item-active');
+        $(this).addClass('collection-item-active');
+        $(this).children().children().children().text('chevron_right');
+        $(this).siblings().children().children().children().text(' ');
+
+        console.log( 'Clicked' );
+
+        var TypeMap = $(this)[0].innerText;
+        console.log( TypeMap );
+
+        switch( TypeMap ){
+            case "Esp - Alumnos con discapacidad":
+                Mapa_RIMA_Resultados_Discapacidad('ResultadosDiscapacidadRIMA_Esp');
+                $('.title-map').text('Resultados evaluación RIMA en Español');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('black-text').addClass('white-text');
+
+                $('.label-SantaCatarina').removeClass('white-text').addClass('black-text');
+                $('.label-Xichu').removeClass('white-text').addClass('black-text');
+                $('.label-TierraBlanca').removeClass('white-text').addClass('black-text');
+                $('.label-Villagran').removeClass('white-text').addClass('black-text');
+                $('.label-ManuelDoblado').removeClass('white-text').addClass('black-text');
+                $('.label-Tarandacuao').removeClass('white-text').addClass('black-text');
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-SantaCatarina').removeClass('black-text').addClass('white-text');
+            break; 
+            case "Mat - Alumnos con discapacidad":
+                Mapa_RIMA_Resultados_Discapacidad('ResultadosDiscapacidadRIMA_Mat');
+                $('.title-map').text('Resultados evaluación RIMA en Matemáticas');
+                $('.notas-datos').css('color', 'white');
+
+                $('.nombre-municipios').children().show().removeClass('black-text').addClass('white-text');
+
+                $('.label-PurisimaDelRincon').removeClass('white-text').addClass('black-text');
+                $('.label-SanDiegoDeLaUnion').removeClass('white-text').addClass('black-text');
+                $('.label-Xichu').removeClass('white-text').addClass('black-text');
+                $('.label-Atarjea').removeClass('white-text').addClass('black-text');
+                $('.label-DoctorMora').removeClass('white-text').addClass('black-text');
+                $('.label-TierraBlanca').removeClass('white-text').addClass('black-text');
+                $('.label-SanMiguelDeAllende').removeClass('white-text').addClass('black-text');
+                $('.label-SantaCruzDeJuventinoRosas').removeClass('white-text').addClass('black-text');
+                $('.label-ApaseoElAlto').removeClass('white-text').addClass('black-text');
+                $('.label-ApaseoElGrande').removeClass('white-text').addClass('black-text');
+                $('.label-Tarandacuao').removeClass('white-text').addClass('black-text');
+                $('.label-Uriangato').removeClass('white-text').addClass('black-text');
+                $('.label-ManuelDoblado').removeClass('white-text').addClass('black-text');
+                $('.label-Abasolo').removeClass('white-text').addClass('black-text');
+
+                
+            break;         
+        }        
+
     });
 
     $('.collection-regionGeneral .collection-item').on('click', function(){
@@ -2597,7 +3522,7 @@
         }
     });
 
-    $('.collapsible-regions').collapsible({
+    $('.collapsible-telesecundarias').collapsible({
 
         'onOpenStart': function(el){
             console.log( 'Opening' );
